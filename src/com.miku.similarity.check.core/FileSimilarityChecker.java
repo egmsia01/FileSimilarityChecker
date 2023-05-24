@@ -12,8 +12,8 @@ import java.util.Map;
  */
 public class FileSimilarityChecker {
 
-    private static final String FILE1_PATH = "1.txt";
-    private static final String FILE2_PATH = "2.txt";
+    private static final String FILE1_PATH = "targetfile/1.txt";
+    private static final String FILE2_PATH = "targetfile/2.txt";
 
     public static void main(String[] args) {
         try {
