@@ -1,10 +1,1 @@
-    public static void main(String[] args) {
-        try {
-            String file1Content = readFileContent(FILE1_PATH);
-            String file2Content = readFileContent(FILE2_PATH);
-            double similarity = calculateSimilarity(file1Content, file2Content);
-            System.out.println("文件相似度: " + similarity);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+a=1
